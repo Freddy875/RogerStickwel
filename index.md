@@ -208,6 +208,29 @@ Te desafío a atreverte a explorar este fascinante mundo de la Meta Ingeniería 
 
 ---
 
+# Crea tus propias imágenes al estilo de Disney Pixar! 🎨🌟
+
+Seguro has visto esas asombrosas imágenes de estilo animación de Disney Pixar en internet, ¿verdad? ¿Te gustaría aprender a hacer tus propias imágenes de este tipo? ¡Estás de suerte! Te invito a explorar el emocionante "Curso de Generación de Imágenes con IA: Dall-E, Midjourney y Stable Diffusion" en Platzi. En este curso no solo aprenderás a crear imágenes al estilo Pixar, sino que también comprenderás las implicaciones éticas y económicas de estas tecnologías innovadoras. 🖌️💡
+
+Durante este curso, descubrirás cómo:
+
+- Editar imágenes y generar conceptos sorprendentes mediante técnicas avanzadas.
+- Generar imágenes con textos simples o detallados, dándoles un toque único.
+- Estilizar imágenes utilizando la técnica del "prompt tuning" para darles ese toque especial que las hace realmente únicas.
+
+La creatividad y las posibilidades son infinitas. ¡Anímate a explorar este apasionante mundo de la generación de imágenes con IA y sorpréndete con lo que puedes lograr! 🚀📸
+
+
+#IA #Imágenes #Creatividad #Aprendizaje #Platzi #DisneyPixar #InnovaciónTecnológica 🎉🧠
+
+![Pixar5.jpg](Pixar5.jpg "A Mexican man with black suit, glasses and curly hair in Pixar animation style")
+
+![Pixar6.jpg](Pixar6.jpg)
+
+![Pixar7.jpg](Pixar7.jpg)
+
+![Pixar8.jpg](Pixar8.jpg)
+
 ---
 
 
