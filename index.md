@@ -8,14 +8,12 @@ Ahora puedo crear imágenes a partir de palabras simples o detalladas, estilizar
 
 También quiero invitarte a leer un blog que escribí donde profundizo en la Meta Ingeniería de Prompts. Si te interesa saber más al respecto, ¡échale un vistazo! 📚
 
-https://lnkd.in/etwjBAmX
+[Meta Ingenieria de Prompts.](https://freddy875.github.io/Caballero-de-la-Aleacion/)
+
 
 Si te sientes inspirado para aprender a generar imágenes impresionantes como yo, te animo a unirte a Platzi ahora mismo. La plataforma ofrece una amplia gama de cursos emocionantes que te ayudarán a alcanzar tus metas de aprendizaje. ¡No dejes de explorar y aprender! 💪🌟
 
 #Aprendizaje #Creatividad #InteligenciaArtificial #GeneraciónDeImágenes #Platzi #Tecnología 🚀🖌️📖🌐
-
-
-  
 
 ---
 
