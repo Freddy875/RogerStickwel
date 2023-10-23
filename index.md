@@ -275,8 +275,6 @@ A veces, cuando sentimos que estamos estancados en el trabajo, es porque hemos d
 
 Tú no te detienes, y yo tampoco lo haré. En Platzi, siempre hay nuevas oportunidades para aprender y crecer. Estoy aquí para acompañarte en tu viaje. ¡Te animo a tomar el "Curso de Generación de Imágenes con IA: Dall-E, Midjourney y Stable Diffusion" y a leer tu blog sobre la "Meta Ingeniería de Prompts"! 🚀📚
 
-https://lnkd.in/etwjBAmX
-
 #SuperaciónPersonal #Aprendizaje #Platzi #IAGenerativa #CrecimientoProfesional #Innovación #NuncaDejesDeAprender 🌱🌐
 
 ![Simpson5.jpg](Simpson5.jpg)
