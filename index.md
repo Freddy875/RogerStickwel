@@ -365,7 +365,7 @@ Si te sientes inspirado por estas posibilidades y deseas aprender a crear imáge
 
 ¡Juntos, vamos a inspirarnos y crear un futuro increíble! 💪🤳✨
 
-![Simpson9.jpg](Simpgon9.jpg "Agregando nuevas imagenes de los Simpson")
+![Simpson9.jpg](Simpson9.jpg "Agregando nuevas imagenes de los Simpson")
 
 ![Simpgon10.jpg](Simpson10.jpg)
 
