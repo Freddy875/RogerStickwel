@@ -200,7 +200,7 @@ Te desafío a atreverte a explorar este fascinante mundo de la Meta Ingeniería 
 
 ![StarWars1.jpg](StarWars1.jpg "A futuristic robot in the style of Star Wars, primarily featuring black and red colors, with an emphasis on elegance and advanced technology")
 
-![StarWars2.jpg](StarWars2,jpg)
+![StarWars2.jpg](StarWars2.jpg)
 
 ![StarWars3.jpg](StarWars3.jpg)
 
