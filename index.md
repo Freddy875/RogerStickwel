@@ -307,11 +307,73 @@ Si estás tan emocionado como yo por lo que se puede lograr con estas tecnologí
 
 ![Sirena1.jpg](Sirena1.jpg "Generate an Image of a Mermaid, with tattoos of Jaguar spots, red hair, lying on the beach")
 
-![Sirena2.jpg]("Sirena2.jpg)
+![Sirena2.jpg](Sirena2.jpg)
 
-![Sirena3.jpg]("Sirena3.jpg)
+![Sirena3.jpg](Sirena3.jpg)
 
-![Sirena4.jpg]("Sirena4.jpg)
+![Sirena4.jpg](Sirena4.jpg)
 
 ---
+
+¡Comparto mi emoción por haber completado el Curso de Generación de Imágenes con IA en Platzi! 🖼️🤖 Este curso ha sido una experiencia enriquecedora en la que he aprendido muchísimo. 💡
+
+Dentro de lo que aprendí, exploré las implicaciones éticas y económicas de estas tecnologías, lo que me ha hecho reflexionar sobre el impacto en nuestro mundo. 🤯💼
+
+Además, he adquirido habilidades para editar imágenes y generar conceptos sorprendentes con técnicas avanzadas. 🎨✨
+
+La posibilidad de crear imágenes a partir de simples palabras es fascinante, y he dominado el arte de dar vida a mis ideas visuales. 🌟📷
+
+También he aprendido a estilizar imágenes con el prompt tuning y a realizar transformaciones de Image to Image, lo que me ha permitido dar rienda suelta a mi creatividad de maneras que nunca imaginé. 🔄🔥
+
+Quiero invitarte a leer mi blog, donde profundizo sobre la Meta Ingeniería de Prompts y cómo esta técnica puede llevar la generación de imágenes a un nuevo nivel. Puedes encontrarlo aquí: [Enlace al blog](https://lnkd.in/etwjBAmX) 📝👉
+
+Si te sientes intrigado por estas increíbles posibilidades y quieres aprender a crear tus propias imágenes asombrosas, te animo a unirte a Platzi y explorar este emocionante mundo de la inteligencia artificial. ¡El conocimiento está al alcance de tus manos! 🚀📚
+
+#InteligenciaArtificial #GeneraciónDeImágenes #AprendizajeContinuo #Creatividad #ÉxitoPersonal #MetaIngenieríaDePrompts 🤩🌌
+
+¡Vamos a inspirarnos y crear juntos! 💪🤳✨
+
+![Marvel3.jpg](Marvel13.jpg)
+
+![Marvel4.jpg](Marvel14.jpg)
+
+![Marvel5.jpg](Marvel15.jpg)
+
+![Marvel6.jpg](Marvel16.jpg)
+
+---
+
+# 🚀 ¡Orgulloso de compartir mi logro! He completado con éxito el Curso de Generación de Imágenes con IA en Platzi. 🖼️🤖
+
+Este curso ha sido una experiencia asombrosa en la que he adquirido un conocimiento valioso. Dentro de lo aprendido destaco:
+
+🔍 Explorar las implicaciones éticas y económicas de estas tecnologías, lo cual me ha hecho pensar en cómo impactan en nuestro mundo.
+
+🎨 Aprender a editar imágenes y crear conceptos sorprendentes mediante técnicas avanzadas.
+
+🌟 Generar imágenes a partir de palabras, dando vida a ideas y visiones con solo las palabras adecuadas.
+
+🖌️ Estilizar imágenes mediante el "prompt tuning."
+
+🔄 Dominar la técnica de Image to Image, que me permite transformar imágenes de manera innovadora.
+
+¡Estoy emocionado de invitarlos a leer mi blog donde profundizo sobre la Meta Ingeniería de Prompts y cómo esta técnica revoluciona la generación de imágenes! Puedes encontrarlo aquí: https://lnkd.in/etwjBAmX 📝👉
+
+Si te sientes inspirado por estas posibilidades y deseas aprender a crear imágenes asombrosas, te animo a unirte a Platzi y explorar este emocionante campo de la inteligencia artificial. ¡El conocimiento está a tu alcance! 🚀📚
+
+#InteligenciaArtificial #GeneraciónDeImágenes #AprendizajeContinuo #Creatividad #ÉxitoPersonal #MetaIngenieríaDePrompts 🤩🌌
+
+¡Juntos, vamos a inspirarnos y crear un futuro increíble! 💪🤳✨
+
+![Simpson9.jpg](Simpgon9.jpg "Agregando nuevas imagenes de los Simpson")
+
+![Simpgon10.jpg](Simpson10.jpg)
+
+![Simpgon11.jpg](Simpson11.jpg)
+
+![Simpgon12.jpg](Simpson12.jpg)
+
+---
+
+
 
