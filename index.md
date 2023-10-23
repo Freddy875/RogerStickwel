@@ -233,6 +233,39 @@ La creatividad y las posibilidades son infinitas. ¡Anímate a explorar este apa
 
 ---
 
+# ¡De los sueños a la creación: Mi viaje como Prompt Engineer! 🚀💡
+
+Hubo un tiempo en el que soñé con ser Ingeniero, pero por diversas razones, tomé un camino diferente y decidí dejar la Facultad de Ingeniería. Siempre me quedó esa pregunta en la mente: ¿qué hubiera pasado si me hubiera convertido en Ingeniero?
+
+Pero, como Flash, me gusta imaginar que existe un multiverso en el que tomé ese camino. En ese universo paralelo, me convertí en Ingeniero, y esa idea me intrigó durante mucho tiempo. Sin embargo, descubrí que la vida tiene formas sorprendentes de llevarnos hacia nuestras pasiones de maneras inesperadas.
+
+Fue entonces cuando encontré los cursos de Platzi, y resonaron en mí las palabras del CEO, "Crear no tiene que ver con ser bueno, solo tiene que ver con crear". Fue un punto de inflexión que me llevó a explorar nuevas posibilidades.
+
+Así, completando varios cursos en Platzi, me convertí en un "Prompt Engineer". Mi enfoque estaba en la Ingeniería de Prompts, una disciplina poco conocida pero emocionante. Usando los conocimientos adquiridos, creé mi blog sobre la "Meta Ingeniería de Prompts" y desarrollé estas asombrosas imágenes que ves hoy. 📚💻🎨
+
+Te invito a descubrir más en mi blog y a explorar el "Curso de Generación de Imágenes con IA: Dall-E, Midjourney y Stable Diffusion". Nunca dejes de aprender, ¡porque cada día es una oportunidad para crear y evolucionar! 🌟🔍
+
+#Platzi #Aprendizaje #IngenieríaDePrompts #Creatividad #Blog #Tecnología #DesarrolloPersonal 💪🌐
+
+![Marvel5.jpg](Marvel5.jpg)
+
+![Marvel6.jpg](Marvel6.jpg)
+
+![Marvel7.jpg](Marvel7.jpg)
+
+![Marvel8.jpg](Marvel8.jpg)
+
+![Marvel9.jpg](Marvel9.jpg)
+
+![Marvel10.jpg](Marvel10.jpg)
+
+![Marvel11.jpg](Marvel11.jpg)
+
+![Marvel12.jpg](Marvel12.jpg)
+
+---
+
+
 
 
 
