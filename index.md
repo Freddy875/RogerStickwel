@@ -1,4 +1,4 @@
-🌟 La Infinita Fusión de la Creatividad Humana y la IA 🤖
+# 🌟 La Infinita Fusión de la Creatividad Humana y la IA 🤖
 
 La inteligencia artificial por sí sola carece de creatividad, pero cuando se combina con la creatividad humana, se abren puertas a posibilidades infinitas. 💡
 
@@ -11,4 +11,7 @@ Esta experiencia ha sido reveladora y me ha demostrado que, cuando la creativida
 https://lnkd.in/etwjBAmX
 
 #Creatividad #InteligenciaArtificial #Aprendizaje #Platzi #MetaIngenieríaDePrompts 📚🖼️🚀🌟
+
+![Texto alternativo](ruta/a/la/imagen/Pokemon1.jpg)
+
 
