@@ -142,7 +142,27 @@ Si deseas explorar más sobre este emocionante tema, te invito a unirte a Platzi
 
 ---
 
+# La importancia de auditar la IA 🤖💼
 
+En la actualidad, la inteligencia artificial se ha convertido en una herramienta poderosa, pero también en un reflejo de las decisiones y datos que alimentan su aprendizaje. Es esencial asegurarnos de que la IA sea inclusiva y libre de sesgos para crear un mundo más igualitario.
+
+En ocasiones, como mencioné, podemos notar estereotipos presentes en las imágenes generadas por la IA. Esto nos lleva a reflexionar sobre la necesidad de una auditoría constante para detectar y eliminar sesgos no deseados, como lo aprendí en Coursera 🧐
+
+El ejemplo de imágenes con bigotes y sombreros al referirse a México nos recuerda que la información que alimenta la IA proviene de fuentes diversas y puede incluir prejuicios. Por eso, es fundamental abogar por la diversidad y la inclusión en el desarrollo de estas tecnologías. 👫🌍
+
+La buena noticia es que podemos aprender a crear IA más inclusiva. Te invito a explorar el curso "Generación de Imágenes con IA: Dall-E, Midjourney y Stable Diffusion" en Platzi, donde se abordan temas cruciales sobre cómo evitar prejuicios en la generación de imágenes. 💡📚
+
+Recordemos que las herramientas de IA tienen un gran potencial para construir un mundo más igualitario y diverso. Depende de nosotros utilizarlas de manera consciente y ética. 💪🌟
+
+#IAInclusiva #AuditoríaDeIA #Diversidad #Platzi #InclusiónDigital #AprendizajeContinuo 🌐🤝
+
+![Simpson1.jpg](Simpson1.jpg)
+
+![Simpson2.jpg](Simpson2.jpg)
+
+![Simpson3.jpg](Simpson3.jpg)
+
+![Simpson4.jpg](Simpson4.jpg)
 
 
 
