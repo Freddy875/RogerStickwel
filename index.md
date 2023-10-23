@@ -61,13 +61,13 @@ Es increíble cómo la tecnología puede desatar la creatividad y, al mismo tiem
 #IA #Creatividad #GeneraciónDeImágenes #Platzi #MetaIngenieríaDePrompts #Tecnología 🧠🎨💡📖
 Activar para ver una imagen más grande.
 
-[Oleo1.jpg](Oleo1.jpg "Crear un dibujo de un hombre mexicano con lentes y traje negro, cabello rizado. Al estilo de Guissepe Arcimboldo. Pintura al oleo.")
+![Oleo1.jpg](Oleo1.jpg "Crear un dibujo de un hombre mexicano con lentes y traje negro, cabello rizado. Al estilo de Guissepe Arcimboldo. Pintura al oleo.")
 
-[Oleo2.jpg](Oleo2.jpg)
+![Oleo2.jpg](Oleo2.jpg)
 
-[Oleo3.jpg](Oleo3.jpg)
+![Oleo3.jpg](Oleo3.jpg)
 
-[Oleo4.jpg](Oleo4.jpg)
+![Oleo4.jpg](Oleo4.jpg)
 
 ---
 
