@@ -121,6 +121,28 @@ https://lnkd.in/etwjBAmX
 
 ---
 
+![Oleo5.jpg](Oleo5.jpg)
+
+#🎨 ¡La Magia de la IA Generativa: Arte e Importancia de Evitar Sesgos! 🤖
+
+Hoy quiero compartir una experiencia fascinante con todos ustedes. ¡Imaginen tener la capacidad de generar imágenes sorprendentes con la ayuda de la IA Generativa! He tenido el placer de crear estas imágenes que, en mi opinión, evocan la estética de las pinturas al óleo de José Alfredo Siqueiros y Diego Rivera. 😄🎨
+
+![Oleo6.jpg](Oleo.jpg)
+
+Sin embargo, lo que me causó gran sorpresa y reflexión fue cómo, al solicitar que el personaje fuera mexicano, la IA incluyó un bigote estereotipado. Esto subraya la importancia de auditar las IA para evitar caer en sesgos, un tema que exploré y aprendí en profundidad en Coursera. 🧐🔍
+
+![Oleo7.jpg](Oleo7.jpg)
+
+El prompt que utilicé para crear estas obras de arte fue: "Crear un dibujo de un hombre mexicano con lentes y traje negro, cabello rizado. Al estilo de Giuseppe Arcimboldo. Pintura al óleo". Es asombroso cómo la IA interpreta y transforma estas instrucciones en imágenes únicas y atractivas. 🤯
+Si deseas explorar más sobre este emocionante tema, te invito a unirte a Platzi , donde puedes aprender a crear obras de arte con IA y a profundizar en la Meta Ingeniería de prompts, un concepto que exploro en detalle en mi blog. ¡La tecnología y la creatividad se unen de formas sorprendentes! 🚀📚🖌️
+
+#IA #Creatividad #ArteGenerativo #Sesgos #Aprendizaje #Platzi 🌟🎨📖🔗
+
+![Oleo8.jpg](Oleo8.jpg)
+
+---
+
+
 
 
 
