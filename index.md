@@ -156,13 +156,61 @@ Recordemos que las herramientas de IA tienen un gran potencial para construir un
 
 #IAInclusiva #AuditoríaDeIA #Diversidad #Platzi #InclusiónDigital #AprendizajeContinuo 🌐🤝
 
-![Simpson1.jpg](Simpson1.jpg)
+![Simpson1.jpg](Simpson1.jpg "Hombre mexicano, sin bigote. En traje negro y con lentes. Dibujao al estilo de los Simpson.")
 
 ![Simpson2.jpg](Simpson2.jpg)
 
 ![Simpson3.jpg](Simpson3.jpg)
 
 ![Simpson4.jpg](Simpson4.jpg)
+
+---
+
+# El placer del aprendizaje 📚🌟
+
+En la película "Radical", hay una escena que resuena profundamente conmigo. Muestra cómo alguien está dispuesto a ayudarte a desarrollar todo tu potencial, sin recurrir a la humillación. Cuánto hubiera deseado que Go4More tuviera ese enfoque en mi crecimiento. Porque, como bien dice el libro "¿Qué harías si no tuvieras miedo?" de Borja Vilaseca, imagina prepararte para una maratón y, de repente, te encuentras en una competencia de natación debido a un plan desactualizado. Este pensamiento impactó a mi padre y a mí de manera profunda.
+
+Siempre estaré agradecido por lo que me enseñaron mis profesores, quienes me motivaron a seguir aprendiendo y explorando. Fue un viaje de autodescubrimiento constante, y finalmente, encontré un lugar y una comunidad que valoran el desarrollo de nuestro potencial: Platzi. 🚀🌐
+
+Durante mi curso "Generación de Imágenes con IA: Dall-E, Midjourney y Stable Diffusion" en Platzi, descubrí la verdadera pasión por el aprendizaje. Comprendí que dejar de aprender es dejar de crecer. En Platzi, no solo adquirí conocimientos, sino que también encontré un entorno que fomenta la evolución constante. 🧠📚
+
+El placer de aprender radica en la posibilidad de alcanzar tu máximo potencial sin humillación ni limitaciones. ¡Únete a la comunidad de Platzi y descubre la magia del aprendizaje continuo! 💪🌟
+
+#Aprendizaje #DesarrolloPersonal #Platzi #Crecimiento #Educación #DescubreTusTalentos 🚀📖
+
+![Comic1.jpg](Comic1.jpg "Hombre mexicano, sin bigote. En traje negro y con lentes. Dibujao al estilo de los Simpson.")
+
+![Comic2.jpg](Comic2.jpg)
+
+![Comic3.jpg](Comic3.jpg)
+
+---
+
+# ¡La Meta Ingeniería de Prompts: Un mundo por descubrir! 🌐✨
+
+¿Alguna vez has oído hablar de la "Meta Ingeniería de Prompts"? Si no, ¡te invito a explorar mi blog donde profundizo en este apasionante tema! Es posible que seas uno de los primeros en escuchar sobre esto, ya que considero que he acuñado este término.
+
+La Meta Ingeniería de Prompts tiene un objetivo esencial: permitir que la inteligencia artificial te guíe sobre qué prompts o instrucciones puedes utilizar en otras herramientas de IA generativa o incluso en la misma. Si quieres sumergirte en los detalles, te invito sinceramente a leer mi blog, donde abordo este concepto en profundidad.
+
+El punto de partida para esta aventura fue la PlatziPlatzi Conf de México en 2023, donde el CEO de Platzi, Fredy Vega, compartió una idea inspiradora: "Crear no tiene que ver con ser bueno, solo tiene que ver con crear". Este mensaje resonó en mí y me motivó a tomar cursos sobre IA Generativa en Platzi y a contribuir creando mi propio blog. Además, he enriquecido mi blog con imágenes generadas durante el "Curso de Generación de Imágenes con IA: Dall-E, Midjourney y Stable Diffusion".
+
+Te desafío a atreverte a explorar este fascinante mundo de la Meta Ingeniería de Prompts y a conocerlo en detalle. ¡Espero que mi blog te inspire tanto como lo hizo la Platzi Conf 2023 conmigo! 🚀📚
+
+#MetaIngenieríaDePrompts #IA #PlatziConf #Aprendizaje #Creación #Tecnología #Innovación 🧠💻
+
+![StarWars1.jpg](StarWars1.jpg "A futuristic robot in the style of Star Wars, primarily featuring black and red colors, with an emphasis on elegance and advanced technology")
+
+![StarWars2.jpg](StarWars2,jpg)
+
+![StarWars3.jpg](StarWars3.jpg)
+
+![StarWars.jpg](StarWars4.jpg)
+
+---
+
+---
+
+
 
 
 
