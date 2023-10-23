@@ -111,6 +111,16 @@ https://lnkd.in/etwjBAmX
 
 #Creatividad #InteligenciaArtificial #Aprendizaje #Platzi #MetaIngenieríaDePrompts 📚🖼️🚀🌟
 
-![Pokemon1.jpg](Pokemon1.jpg "Pol")
+![Pokemon1.jpg](Pokemon1.jpg "Hombre con traje negro y lentes. Dibujalo en formato anime de Pokemon ")
+
+![Pokemon2.jpg](Pokemon2.jpg)
+
+![Pokemon3.jpg](Pokemon3.jpg)
+
+![Pokemon4.jpg](Pokemon4.jpg)
+
+---
+
+
 
 
