@@ -15,6 +15,15 @@ Si te sientes inspirado para aprender a generar imágenes impresionantes como yo
 
 #Aprendizaje #Creatividad #InteligenciaArtificial #GeneraciónDeImágenes #Platzi #Tecnología 🚀🖌️📖🌐
 
+![Pixar1.jpg](Pixar1.jpg "A Mexican man with black suit, glasses and curly hair in Pixar animation style")
+
+![Pixar2.jpg](Pixar2.jpg)
+
+![Pixar3.jpg](Pixar3.jpg)
+
+![Pixar4.jpg](Pixar4.jpg)
+
+
 ---
 
 
