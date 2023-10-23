@@ -375,5 +375,33 @@ Si te sientes inspirado por estas posibilidades y deseas aprender a crear imáge
 
 ---
 
+🚀 ¡Estoy emocionado de compartir un logro importante en mi viaje de aprendizaje! Acabo de completar el apasionante Curso de Generación de Imágenes con IA en Platzi. 🖼️🤖
 
+Este curso ha sido una experiencia enriquecedora en la que he sumado conocimientos clave. Algunos de los aspectos destacados de lo que he aprendido incluyen:
+
+🔍 Explorar a fondo las implicaciones éticas y económicas de estas tecnologías, lo cual ha ampliado mi comprensión del impacto en nuestro mundo.
+
+🎨 Aprender a editar imágenes de manera avanzada y crear conceptos innovadores a través de técnicas avanzadas.
+
+🌟 Generar imágenes a partir de palabras, transformando ideas en obras visuales con solo las palabras adecuadas.
+
+🖌️ Estilizar imágenes mediante el ajuste de prompts, permitiendo una personalización única.
+
+🔄 Dominar la técnica de Image to Image, abriendo la puerta a la creatividad ilimitada.
+
+Si sientes curiosidad por estas increíbles posibilidades y deseas aprender a crear imágenes sorprendentes, te animo a unirte a Platzi y explorar este emocionante campo de la inteligencia artificial. El conocimiento y la creatividad te esperan. 🚀📚
+
+#InteligenciaArtificial #GeneraciónDeImágenes #AprendizajeContinuo #Creatividad #ÉxitoPersonal #MetaIngenieríaDePrompts 🤩🌌
+
+¡Unámonos para inspirarnos y construir un futuro lleno de innovación! 💪🤳✨
+
+![Marvel17.jpg](Marvel17.jpg)
+
+![Marvel18.jpg](Marvel18.jpg)
+
+![Marvel19.jpg](Marvel19.jpg)
+
+![Marvel20.jpg](Marvel20.jpg)
+
+---
 
